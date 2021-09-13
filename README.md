@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itshimanirajput
+- 👋 Hi, I’m Himani Rajput.
 - 👀 I’m interested in PYTHON DEVELOPING.
 - 🌱 I’m currently learning "Using Python For Research"
-- 📫 How to reach me . Twitter: @itshimanirajput
+- 📫 How to reach me . Twitter: @itshimanirajput  || Linkedin: https://www.linkedin.com/in/himani-rajput-559410220
