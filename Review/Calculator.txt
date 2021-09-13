@@ -1,0 +1,33 @@
+<html>
+    <head>
+    <title> Drop</title>
+    </head>
+        <script> 
+        function abc()
+        {
+            var x=parseInt(document.getElementById("id1").value);
+            var y=parseInt(document.getElementById("id2").value);
+            var z=documnet.getElementById("s1").value;
+            if(z=="a")
+            {
+                document.getElementById("id3").value=x+y;
+            }
+            if(z=="s")
+            {
+                document.getElementById("id3").value=x-y;
+            }
+        }
+        </script>
+    <body>
+        <label> Enter first number </label>
+        <input id="id1" type="text"><br><br>
+        <label> Enter second number </label>
+        <input id="id2" type="text"><br><br>
+        <select id="s1" onclick="abc()">
+            <option> Select Option</option>
+            <option value="a">ADD</option>
+            <option value="s">SUB</option>
+        </select>
+        <input id="id3" type="text" placeholder="ANSWER" disabled>
+    </body>
+</html>
